@@ -5,12 +5,6 @@ version: 1.0.0
 metadata:
   openclaw:
     emoji: "⚙️"
-    requires:
-      env:
-        - GHL_API_KEY
-      bins:
-        - curl
-    primaryEnv: GHL_API_KEY
 ---
 
 # GHL Super Operator — Fitness Coaching Business Manager
