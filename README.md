@@ -38,8 +38,7 @@ cp SKILL.md ~/.openclaw/skills/ghl-manager/SKILL.md
 
 ## Requirements
 
-- `GHL_API_KEY` environment variable set with your GoHighLevel API key
-- `curl` available on your system
+- An OpenClaw instance with access to your GHL account (via browser control or direct login)
 
 ## Systems covered
 
